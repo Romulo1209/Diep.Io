@@ -1,6 +1,6 @@
 # Diep.Io
 Código de jogo com mêcanicas baseadas no jogo Diep.IO
-Feito em 5 dias por mim Romulo José
+Feito em 5 dias por Romulo José
 
 As armas são mudadas de modo aleatório cada vez que o jogo se inicia.
 Alguns pacotes de munição pode aparecer quando você destroi uma forma geometrica.
