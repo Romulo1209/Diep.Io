@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14794433a2dd81b4182a9a65521026a9, type: 3}
+  m_Name: Sniper
+  m_EditorClassIdentifier: 
+  weaponName: Sniper
+  weaponPrefab: {fileID: 3111112274279619730, guid: e8e51cc3717efcc42b767fe0709fba95, type: 3}
+  weaponShootPoints:
+  - {x: 0, y: 1.653}
+  weaponDamageBase: 5
+  weaponAmmobase: 10
+  shootBackPropulsion: 6
+  shootCooldownTime: 1
+  bulletSpeed: 15
+  bulletGravity: 2

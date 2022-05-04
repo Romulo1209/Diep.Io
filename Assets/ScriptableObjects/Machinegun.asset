@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 14794433a2dd81b4182a9a65521026a9, type: 3}
+  m_Name: Machinegun
+  m_EditorClassIdentifier: 
+  weaponName: Machinegun
+  weaponPrefab: {fileID: 4378401913135230436, guid: 6484cf8f7e5e55a439457107c0dd168a, type: 3}
+  weaponShootPoints:
+  - {x: 0, y: 1.483}
+  - {x: -0.5, y: 1.233}
+  - {x: 0.5, y: 1.233}
+  weaponDamageBase: 1
+  weaponAmmobase: 40
+  shootBackPropulsion: 3
+  shootCooldownTime: 0.3
+  bulletSpeed: 8
+  bulletGravity: 2
